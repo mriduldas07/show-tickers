@@ -1,0 +1,8 @@
+.home_display {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
+  margin: auto;
+  margin-top: 30px;
+  padding: 0 15px;
+}
