@@ -1,5 +1,3 @@
-// import axios from "../../utils/axiosIntance";
-
 import axios from "axios";
 
 export const getAllShows = async () => {
